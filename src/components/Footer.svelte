@@ -78,7 +78,7 @@
   <footer role="contentinfo">
     <p class="text-left"><a href="/privacy.html">Privacy Policy</a></p>
     <p class="text-right">
-      Created by <a href="https://adambar.pl" target="_blank" rel="noopener">Adam Bar</a><br/>
+      © 2025 Scriby, Inc. All Rights Reserved.<br/>
       Licenced under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer noopener">CC-BY-SA 4.0</a>
     </p>
   </footer>
