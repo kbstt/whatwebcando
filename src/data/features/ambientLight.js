@@ -3,7 +3,7 @@ import {Feature} from "../../utils/feature.js";
 export default new Feature({
   id: 'ambient-light',
   name: 'Ambient Light',
-  description: [`The <b>Ambient Light API</b> allows Web applications to access the light intensity level measured by the device's light sensor, normally built-in with the device's camera.`,
+  description: [`The <b>Ambient Light API</b> enables Web applications to access the light intensity level measured by the device's light sensor, normally built-in with the device's camera.`,
     `The first approach to supporting light intensity sensor on the Web - as a standalone API - was implemented in Firefox back in 2013. Since then the specification was rewritten to make use of the new <b>Generic Sensors API</b>. This flavor, as of early 2020, is only experimentally implemented in Google Chrome, behind the "Generic Sensor Extra Classes" flag.`],
   api: `<p><b>The old, standalone API</b></p>
       <dl>
