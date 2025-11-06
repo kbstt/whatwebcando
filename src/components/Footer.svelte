@@ -78,7 +78,7 @@
   <footer role="contentinfo">
     <p class="text-left"><a href="/privacy.html">Privacy Policy</a></p>
     <p class="text-right">
-      © 2025 Scriby, Inc. All Rights Reserved.<br/>
+      © 2025 Scriby, Inc.<br/>
       Licenced under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer noopener">CC-BY-SA 4.0</a>
     </p>
   </footer>
